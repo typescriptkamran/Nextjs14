@@ -5,6 +5,8 @@
 [Download and Install VS Code](https://code.visualstudio.com/download)
 
 [Check out the Next.js 14.0.2 Installation Docs](https://nextjs.org/docs/getting-started/installation)
+[Watch Next.js 14 - How to install and deploy](https://youtu.be/VCPm_NeIe9g?sub_confirmation=1)
+
 
 1. **Create a new Folder**
 
