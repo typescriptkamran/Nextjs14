@@ -4,14 +4,11 @@ The hierarchy of the app folder maps directly to URL paths. However, it’s poss
 
 A route group can be created by wrapping a folder’s name in parenthesis: (folderName)
 
-
+[Vedio](https://youtu.be/9QNmpyudOKE)
 
 [Read the Route Groups docs](https://beta.nextjs.org/docs/routing/defining-routes#route-groups)
 
-
-
 We should use the <Link> component for navigation unless you have a specific requirement for using useRouter.
-
 
 Start the Server:
 
@@ -20,10 +17,6 @@ Start the Server:
 Open the Browser:
 
         http://localhost:3000/
-
-
-
-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
