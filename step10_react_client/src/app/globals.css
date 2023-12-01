@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer base {
+  h1 { @apply text-6xl font-bold text-slate-600}
+  h2 { @apply text-4xl font-bold  text-slate-600}
+  h3 { @apply text-3xl font-bold  text-slate-600}
+  h4 { @apply text-2xl font-bold  text-slate-600}
+  h5 { @apply text-xl font-bold  text-slate-600}
+  h6 { @apply text-lg font-bold  text-slate-600}
+  q { @apply text-gray-400 }
+
+}
