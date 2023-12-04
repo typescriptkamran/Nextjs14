@@ -10,7 +10,7 @@ const Nav = () => {
     <Link href="\name">Name</Link>
     <Link href="\name\address">Address</Link>
     <Link href="\react">React</Link>
-    <Link href="\tailwind">Tailwind</Link>
+    <Link href="\tailwork">Tailwork</Link>
     
     
   </nav></div>
