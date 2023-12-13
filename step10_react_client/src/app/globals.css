@@ -15,7 +15,7 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+/* 
 @layer base {
   h1 { @apply text-6xl font-bold text-slate-600}
   h2 { @apply text-4xl font-bold  text-slate-600}
@@ -25,4 +25,4 @@
   h6 { @apply text-lg font-bold  text-slate-600}
   q { @apply text-gray-400 }
 
-}
+} */
